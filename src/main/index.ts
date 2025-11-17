@@ -105,6 +105,7 @@ function createWindow() {
   mainWindow = new BrowserWindow({
     width: 1100,
     height: 720,
+    icon: path.join(__dirname, "../../build/icon.ico"),
     webPreferences: {
       nodeIntegration: false,
       contextIsolation: true,
