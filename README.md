@@ -41,5 +41,4 @@ This will package the app using Electron Builder.
 
 You can download the latest releases here:
 
-- [Installer Version](release/Simple%20Video%20Compressor-1.0.0-Setup.exe)
-- [Portable Version](release/Simple%20Video%20Compressor-1.0.0-Portable.exe)
+➡️ https://github.com/Godyrex/simple-video-compressor/releases
